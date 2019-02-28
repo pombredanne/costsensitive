@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.directory
+
+# dist files
+dist/
+*.zip
+*.tar.gz
+
+costsensitive.egg-info/
+	*
+
+src/
+	*.so
+	*.a
+	*.exe
+	*.lib
+	*.dynlib
+
+MANIFEST
+
+*.so
+*.a
+*.exe
+*.lib
+*.dynlib
+.Rproj.user
+deleteme.R

@@ -1,3 +1,4 @@
-pandas
 numpy
-scipy 
+scipy
+joblib>=0.13
+cython
